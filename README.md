@@ -1,5 +1,5 @@
 # ProducerConsumerSimulation
-生產者與消費者問題模擬
+Linux下模擬生產者與消費者問題
 
 ## 題目要求
 ### 1.	实验目的
