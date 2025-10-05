@@ -16,7 +16,7 @@ Ubuntu 14.04
 gcc version 4.8.4
  
 ## 實驗結果
-![](https://raw.githubusercontent.com/Jaxx9527/ProducerConsumerSimulation/refs/heads/main/image.png)
+![](https://raw.githubusercontent.com/Jaxx9527/ProducerConsumerSimulation/refs/heads/main/image.png)  
 在本次实验中使用到了共享数据结构、信号量初始化、P/V  操作、生产者和消费者逻辑，以及进程间通信资源的创建与清理等操作。  
 熟悉了 Linux 下进程间通信系统调用，包括 shmget、shmat、shmdt、shmctl 等共享内存函数，以及 semget、semop、 semctl  等信号量函数。  
 同时也让我对多生产者多消费者问题有了更深入的掌握。
